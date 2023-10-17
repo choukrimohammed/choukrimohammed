@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choukrimohammed&label=Profile%20views&color=0e75b6&style=flat" alt="choukrimohammed" /> </p>
 
-- 📫 How to reach me **choukriimohammed@gmail.com**
+- 📫 How to reach me: 
+  - Email: choukriimohammed@gmail.com
+  - Portfolio: [choukri-mohammed-portfolio.vercel.app](https://choukri-mohammed-portfolio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
